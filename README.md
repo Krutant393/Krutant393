@@ -147,7 +147,6 @@ Campus lost-and-found platform to digitize lost item management
 
 - 🚀 **AI-Root-Cause-Analyzer** - Cloud failure analysis system with React dashboard
 - 📊 **Airfare CPI Tracker** (SIH Project) - Smart India Hackathon project with web scraping
-- 🌍 **Learning German** - Expanding language skills
 - 📚 **Advanced DSA & System Design** - Preparing for big tech interviews
 
 ---
