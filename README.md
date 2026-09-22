@@ -1,8 +1,8 @@
-# Hey there! 👋 I'm Krutant
+# Hey there!  I'm Krutant
 
 <div align="center">
 
-### 🚀 **Full Stack Developer | AI/ML Enthusiast | Open Source Contributor**
+###  **Full Stack Developer | AI/ML Enthusiast | Open Source Contributor**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Krutant393&color=0066cc&style=flat-square&label=Profile+Views)](https://github.com/Krutant393)
 [![GitHub followers](https://img.shields.io/github/followers/Krutant393?style=social)](https://github.com/Krutant393)
@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```python
 developer = {
@@ -25,12 +25,12 @@ developer = {
 }
 ```
 
-- 🎓 B.Tech in **Electronics & Telecommunication Engineering**
-- 💻 **Full Stack Developer** specializing in MERN Stack
-- 🧠 Exploring **AI/ML and Backend Development**
-- 🚀 Building **production-ready applications**
-- 🌱 Currently learning **Advanced System Design** and **AI Integration**
-- 🤝 Open to **collaborations** in Web Development, AI, and Open Source
+-  B.Tech in **Electronics & Telecommunication Engineering**
+-  **Full Stack Developer** specializing in MERN Stack
+-  Exploring **AI/ML and Backend Development**
+-  Building **production-ready applications**
+-  Currently learning **Advanced System Design** and **AI Integration**
+-  Open to **collaborations** in Web Development, AI, and Open Source
 - 📫 Reach me: **[deshmukhkrutant@gmail.com](mailto:deshmukhkrutant@gmail.com)**
 
 ---
@@ -60,7 +60,7 @@ developer = {
 
 ---
 
-## 📊 Live Analytics Dashboard
+##  Live Analytics Dashboard
 
 <div align="center">
 
@@ -81,9 +81,9 @@ developer = {
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🤖 AI Resume Analyser
+###  AI Resume Analyser
 Intelligent resume evaluation platform that analyzes resumes against job descriptions using AI
 
 | Aspect | Details |
@@ -96,7 +96,7 @@ Intelligent resume evaluation platform that analyzes resumes against job descrip
 
 ---
 
-### 📊 Github Profile Finder
+###  Github Profile Finder
 Academic collaboration platform for students with built-in features for learning and development
 
 | Aspect | Details |
@@ -109,7 +109,7 @@ Academic collaboration platform for students with built-in features for learning
 
 ---
 
-### 🔎 FindMyStuff
+###  FindMyStuff
 Campus lost-and-found platform to digitize lost item management
 
 | Aspect | Details |
@@ -122,7 +122,7 @@ Campus lost-and-found platform to digitize lost item management
 
 ---
 
-## 📈 Real-Time Metrics
+##  Real-Time Metrics
 
 <div align="center">
 
@@ -143,15 +143,15 @@ Campus lost-and-found platform to digitize lost item management
 
 ---
 
-## 💡 What I'm Working On
+##  What I'm Working On
 
-- 🚀 **AI-Root-Cause-Analyzer** - Cloud failure analysis system with React dashboard
-- 📊 **Airfare CPI Tracker** (SIH Project) - Smart India Hackathon project with web scraping
-- 📚 **Advanced DSA & System Design** - Preparing for big tech interviews
+-  **AI-Root-Cause-Analyzer** - Cloud failure analysis system with React dashboard
+-  **Airfare CPI Tracker** (SIH Project) - Smart India Hackathon project with web scraping
+-  **Advanced DSA & System Design** - Preparing for big tech interviews
 
 ---
 
-## 🎯 Quick Links
+##  Quick Links
 
 <div align="center">
 
@@ -164,16 +164,15 @@ Campus lost-and-found platform to digitize lost item management
 
 ---
 
-## 🌟 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
-### "Code is poetry written in logic" 💻✨
+### "Code is poetry written in logic" 
 
 *I'm always open to discussing exciting projects, collaborations, and opportunities in Web Development, AI/ML, and Open Source.*
 
-**Feel free to reach out!** Let's build something amazing together 🚀
-
+**Feel free to reach out!** Let's build something amazing together 
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--14-brightgreen?style=flat-square)
 
 </div>
@@ -182,8 +181,8 @@ Campus lost-and-found platform to digitize lost item management
 
 <div align="center">
 
-### Support My Work ❤️
+### Support My Work 
 
-If you find my projects helpful, consider giving them a ⭐ on GitHub!
+If you find my projects helpful, consider giving them a  on GitHub!
 
 </div>
