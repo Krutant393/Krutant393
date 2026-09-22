@@ -90,7 +90,7 @@ Intelligent resume evaluation platform that analyzes resumes against job descrip
 |--------|---------|
 | **Description** | AI-powered resume analysis with ATS optimization feedback and matching scores |
 | **Tech Stack** | React • Node.js • Express • MongoDB • OpenRouter API |
-| **Features** | 📄 Real-time analysis • 🎯 ATS scoring • 💡 Smart suggestions • 📊 Detailed reports |
+| **Features** |  Real-time analysis •  ATS scoring •  Smart suggestions •  Detailed reports |
 | **Live Demo** | [ai-resume-analyser-new.onrender.com](https://ai-resume-analyser-new.onrender.com) |
 | **GitHub** | [View Repository](https://github.com/Krutant393) |
 
@@ -103,7 +103,7 @@ Academic collaboration platform for students with built-in features for learning
 |--------|---------|
 | **Description** | Discover developers, collaborate, share doubts, take AI-powered quizzes, track progress |
 | **Tech Stack** | React • Node.js • MongoDB • AI Integration |
-| **Features** | 👥 Profile discovery • 💬 Forums & chat • 🧠 AI quizzes • 📈 Analytics |
+| **Features** |  Profile discovery •  Forums & chat •  AI quizzes •  Analytics |
 | **Live Demo** | [github-profile-finder-eta-two.vercel.app](https://github-profile-finder-eta-two.vercel.app/) |
 | **GitHub** | [View Repository](https://github.com/Krutant393) |
 
@@ -116,7 +116,7 @@ Campus lost-and-found platform to digitize lost item management
 |--------|---------|
 | **Description** | Smart lost-and-found system replacing scattered WhatsApp groups on campus |
 | **Tech Stack** | React • Node.js • MongoDB • CLIP (Computer Vision) |
-| **Features** | 🖼️ Image recognition • 📍 Location-based search • ✨ Smart matching • 📱 Mobile-friendly |
+| **Features** |  Image recognition •  Location-based search •  Smart matching •  Mobile-friendly |
 | **Live Demo** | [findmystuffxr.vercel.app](https://findmystuffxr.vercel.app/) |
 | **GitHub** | [View Repository](https://github.com/Krutant393) |
 
@@ -131,7 +131,7 @@ Campus lost-and-found platform to digitize lost item management
 - **Total Commits:** ![GitHub commits since latest release](https://img.shields.io/github/commits-since/Krutant393/Krutant393/latest?style=flat-square)
 - **Public Repos:** ![GitHub public repos](https://img.shields.io/badge/repos-15+-blue?style=flat-square)
 - **Languages:** C++, Python, JavaScript, TypeScript
-- **Collaboration Rate:** Open to opportunities 🚀
+- **Collaboration Rate:** Open to opportunities 
 
 ### Project Impact
 
